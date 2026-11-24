@@ -1,5 +1,6 @@
 {
   "name": "BookingDuo",
+  "description": "Đặt Host theo giờ cho Giao lưu tại quán, Đồng hành địa phương và Phiên dịch.",
   "short_name": "BookingDuo",
   "start_url": "./",
   "scope": "./",
